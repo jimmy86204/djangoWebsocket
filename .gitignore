@@ -1,0 +1,19 @@
+# byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+migrations/
+users/
+ipython_test/
+
+# jupyter script
+*.ipynb
+
+# test data
+*.csv
+*.xlsx
+*.xls
+*.xls#
+*.json
+
+# db
+db.sqlite3
